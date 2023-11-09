@@ -19,7 +19,7 @@ flutter pub run gr_zoom:unzip_zoom_sdk
 ```yaml
   gr_zoom:
     git:
-      url: git@github.com:25LucasAnselmo/gr_zoom.git
+      url: git@github.com:Asherbinyy/gr_zoom.git
       ref: main
 ```
 After install the library, must run the follow script to get some sdk stuff for the first time:
